@@ -1,4 +1,4 @@
-#Project 14: Weblog cho mọi người
+Project 14: Weblog cho mọi người
 
 Thành Viên: 
 - Nguyễn Đại Nghĩa
@@ -6,10 +6,10 @@ Thành Viên:
 - Đặng Huy Thọ
 - Đỗ Quốc Bình
 
-#Công nghệ sử dụng
+Công nghệ sử dụng
   - Frontend: HTML, CSS, JavaScript
 
- #Các chức năng 
+ Các chức năng 
  - Thêm bài viết
  - Xóa bài viết
  - Hiển thị xem bài
