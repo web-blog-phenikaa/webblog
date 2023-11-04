@@ -6,14 +6,18 @@ Thành Viên:
 - Đặng Huy Thọ
 - Đỗ Quốc Bình
 
-Công nghệ sử dụng
+Công nghệ sử dụng:
   - Frontend: HTML, CSS, JavaScript
 
- Các chức năng 
+ Các chức năng:
  - Thêm bài viết
  - Xóa bài viết
  - Hiển thị xem bài
  - Chỉnh sửa bài viết
  - Tìm kiếm bài viết
  - Phân trang
+
+Platform Use-Case:
+
+draw.io
 
