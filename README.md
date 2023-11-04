@@ -5,7 +5,7 @@ Thành Viên:
 - Đặng Huy Thọ
 - Đỗ Quốc Bình
 
- #Công nghệ sử dụng
+#Công nghệ sử dụng
   - Frontend: HTML, CSS, JavaScript
 
  #Các chức năng 
